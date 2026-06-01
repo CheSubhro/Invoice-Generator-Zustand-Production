@@ -21,7 +21,8 @@ An advanced, high-performance, responsive multi-step wizard invoicing applicatio
 
 ---
 
-<img width="1366" height="1361" alt="screencapture-localhost-5173-2026-05-27-11_52_31" src="https://github.com/user-attachments/assets/770d5e82-f9e0-49b7-b23e-9e2b974246e6" />
+<img width="1366" height="1529" alt="screencapture-localhost-5173-2026-06-01-10_30_50" src="https://github.com/user-attachments/assets/16a561ef-c106-4082-adba-1ffee9469eb9" />
+
 <img width="1366" height="983" alt="screencapture-localhost-5173-2026-05-27-11_52_14" src="https://github.com/user-attachments/assets/dd8431f1-6f11-43d2-8fa4-9679cbd37190" />
 <img width="1366" height="965" alt="screencapture-localhost-5173-2026-05-27-11_52_01" src="https://github.com/user-attachments/assets/4fc81319-e7a3-4ff6-9592-9c32fe9b2587" />
 
